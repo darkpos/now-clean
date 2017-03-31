@@ -40,5 +40,5 @@ Run `now-clean` on the command-line with -h and you will see:
   (my-dark-app)
 
 -r  --remove
-	(will remove the marked deployments)
+  (will remove the marked deployments)
 ```
